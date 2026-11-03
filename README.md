@@ -13,7 +13,7 @@ An end-to-end generative AI pipeline that automates customer support for an e-co
 
 ## 🛠 Tech Stack
 
-- **LLM**: Groq (Llama 3.3 70B for drafting, Llama 3.1 8B for triage)
+- **LLM**: Groq (GPT-OSS-120B for drafting, GPT-OSS-20B for triage)
 - **Framework**: [Pydantic AI](https://pydantic-ai.com)
 - **Database**: Supabase (PostgreSQL)
 - **API**: FastAPI
